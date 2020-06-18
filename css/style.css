@@ -2,3 +2,22 @@ body{
     background-color: lightslategray;
 }
 
+.container-fluid{
+    background-image: url(../imagens/economia.jpg) ;
+    min-height: 572px;
+    background-size: cover;
+}
+
+.titulo1{
+    color: white;
+    text-align: left;
+    font-size: 65px;
+}
+
+.paragrafo1{
+    text-align: justify;
+    color: white;
+
+}
+
+
