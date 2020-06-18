@@ -8,6 +8,10 @@ body{
     background-size: cover;
 }
 
+.container{
+    background-color: white;
+}
+
 .titulo1{
     color: white;
     text-align: left;
