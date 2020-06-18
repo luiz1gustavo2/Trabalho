@@ -1,28 +1,27 @@
 body{
-    background-color: lightslategray;
+    background-color: #151818ec;
 }
 
 .container-fluid1{
-    background-image: url(../imagens/economia.jpg) ;
+    background-color: #151818ec;
     min-height: 570px;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
   
 .container{
-    min-height: 572px;
-    background-color: white;
+    min-height: 570px;
+    background-color: #151818ec;
+    color: white;
 }
 
 .titulo1{
     color: white;
-    text-align: left;
+    text-align: center;
     font-size: 65px;
 }
 
 .paragrafo1{
-    text-align: justify;
     color: white;
+    text-align: justify;
     
 }
 
@@ -31,4 +30,16 @@ body{
     color: white;
 }
 
+li a{
+    padding: 0 5px;
+    display: block;
+    color: #d5d5d5;
+    font-size: 16pt;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+li a:hover {
+background-color: gray;
 
