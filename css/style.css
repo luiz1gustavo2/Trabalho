@@ -2,13 +2,15 @@ body{
     background-color: lightslategray;
 }
 
-.container-fluid{
+.container-fluid1{
     background-image: url(../imagens/economia.jpg) ;
-    min-height: 572px;
+    min-height: 570px;
     background-size: cover;
+    background-repeat: no-repeat;
 }
-
+  
 .container{
+    min-height: 572px;
     background-color: white;
 }
 
@@ -21,7 +23,12 @@ body{
 .paragrafo1{
     text-align: justify;
     color: white;
+    
+}
 
+.page-footer{
+    background-color: rgb(21, 24, 24);
+    color: white;
 }
 
 
