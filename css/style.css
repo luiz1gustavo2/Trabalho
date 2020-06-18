@@ -8,7 +8,7 @@ body{
     color: white;
 }
 
-..h1{
+h1{
     color: white;
     text-align: center;
     font-size: 65px;
@@ -16,25 +16,46 @@ body{
 
 p{
     color: white;
-    text-align: justify;
-    
+    text-align: justify;   
 }
+
+.titulointro{
+    text-align: center;
+}
+
 
 .page-footer{
     background-color: rgb(21, 24, 24);
     color: white;
 }
 
-li a{
-    padding: 0 5px;
+li{
+    padding: 0px 16px;
+}
+
+li a{ 
     display: block;
-    color: #d5d5d5;
     font-size: 16pt;
     text-align: center;
     text-decoration: none;
     font-family: Arial;
+    font-weight: bold;
 }
 
 li a:hover {
-background-color: gray;
+background-color: black;
 }
+
+li a, li span{
+	padding: 0.80em 1.5em;
+	letter-spacing: 0.25em;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.footerp{
+    text-align: center;
+}
+
