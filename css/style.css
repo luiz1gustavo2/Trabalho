@@ -1,5 +1,20 @@
 body{
     background-color: #151818ec;
+    
+}
+
+img{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+
+.fab{
+    font-size: 40px;
+    margin: 0px 5px;
+    color: white;
+    padding: 5px 0px 0px ;
+    padding-bottom: 25px;
 }
   
 .container{
@@ -12,6 +27,11 @@ h1{
     color: white;
     text-align: center;
     font-size: 65px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 5px;
 }
 
 p{
