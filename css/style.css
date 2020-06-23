@@ -8,6 +8,10 @@ img{
     padding-bottom: 5px;
 }
 
+.citacao{
+    font-size: 11px;
+    text-align: justify;
+}
 
 .fab{
     font-size: 40px;
@@ -29,9 +33,17 @@ h1{
     font-size: 65px;
 }
 
+h4{
+    text-align: center;
+}
+
 h3{
     text-align: center;
     padding-top: 5px;
+}
+
+.row{
+    text-align: justify;
 }
 
 p{
@@ -79,3 +91,6 @@ li a, li span{
     text-align: center;
 }
 
+.objetivos p{
+    text-align: justify;
+}
